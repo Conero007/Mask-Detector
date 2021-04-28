@@ -1,3 +1,3 @@
-# Mask-Detector
+# Mask Detector
 
-Blog link: [coming soon]
+### [coming soon]
